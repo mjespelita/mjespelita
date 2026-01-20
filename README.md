@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working on **Librify Super App**
+- 🔭 Currently working on **Librify IT Solutions** as Full Stack Web Developer / Programmer
 - 🛠 Backend-focused with Laravel & MySQL
 - 🎯 Interested in clean architecture & automation
 - 🌱 Always learning new tech
@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: _(add link)_
-- 📧 Email: _(optional)_
+- 💼 Facebook: _[(add link)](https://www.facebook.com/mark.jason.penote.espelita/)_
+- 📧 Email: _(markjasonespelita@gmail.com)_
 
 ---
 
