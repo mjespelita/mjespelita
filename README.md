@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 Facebook: _[(add link)](https://www.facebook.com/mark.jason.penote.espelita/)_
+- 💼 Facebook: _[(Click Here)](https://www.facebook.com/mark.jason.penote.espelita/)_
 - 📧 Email: _(markjasonespelita@gmail.com)_
 
 ---
